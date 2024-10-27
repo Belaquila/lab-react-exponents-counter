@@ -1,8 +1,5 @@
-
-
 const Counter = (props) => {
   
-
   return (
     <div className="counter-container">
       <p className="counter-value">{props.count}</p>
